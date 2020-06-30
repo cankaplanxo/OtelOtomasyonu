@@ -1,0 +1,37 @@
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.exe.config
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.exe
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.pdb
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.Form1.resources
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.Properties.Resources.resources
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.exe
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.pdb
+C:\Users\canka\Desktop\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.exe.config
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.exe
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.pdb
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.Form1.resources
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.Properties.Resources.resources
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.exe
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.pdb
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.anaEkran.resources
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.frmMusteriKayit.resources
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.frmOdalar.resources
+C:\Users\canka\Desktop\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.musteriEkranı.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.exe.config
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.exe
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\bin\Debug\pansiyonOtomasyonu.pdb
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csprojAssemblyReference.cache
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.anaEkran.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.Form1.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.frmMusteriKayit.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.frmOdalar.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.musteriEkranı.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.Properties.Resources.resources
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.csproj.GenerateResource.cache
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.exe
+D:\CAN RESET\BM 1. SINIF\otelOtomasyonu\pansiyonOtomasyonu\pansiyonOtomasyonu\obj\Debug\pansiyonOtomasyonu.pdb
